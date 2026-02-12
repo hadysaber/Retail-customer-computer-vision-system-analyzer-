@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+deepface
+tf-keras
+lapx
+psycopg2-binary
+sqlalchemy
+streamlit
+plotly
+pandas
+fastapi
+uvicorn
